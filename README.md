@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github.com/user-attachments/assets/b7b01099-136e-4b56-92aa-731467168ec5.png" alt="Description" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/b7b01099-136e-4b56-92aa-731467168ec5" alt="Description" width="300" height="200">
 
 
